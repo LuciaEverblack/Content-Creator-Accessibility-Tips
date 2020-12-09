@@ -1,5 +1,7 @@
 # Content-Creator-Accessibility-Tips
 
+## Alt text
+
 ## Font Size
 
 ## Color Contrast
